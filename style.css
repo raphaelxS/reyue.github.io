@@ -1,0 +1,296 @@
+div.navbar{
+    font-size: 20px;
+    line-height: 30px;
+    margin-top: -50px;
+    justify-content: space-around;
+    margin: -10px;
+    
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.navbar{
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    align-items: flex-start;
+    margin-left: -50px;
+}
+
+ul li{
+   display: inline-block;
+   margin-right: 25px;
+   justify-content: space-between;
+}
+
+
+
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: black;
+}
+
+.main .jumbotron .mainheader{
+
+    justify-content: space-around;
+    display: flex;
+    background-color: black;
+    align-items: center;
+    height: 200px;
+}
+
+.main .jumbotron .mainheader h1{
+    color: white !important; 
+}
+
+.main .jumbotron.mainheader img{
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.main .banner{
+    background-image: url(MacBook-Pro-2021.webp);
+    height: 800px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.main .banner .container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.link h4{
+    margin-top: -20px;
+}
+
+.main .banner .container h1{
+    font-size: 50px;
+    font-weight: 500;
+} 
+
+.main .banner .container h4{
+    font-size: 25px;
+    font-weight: 100;
+}
+
+.main .banner .container .link a{
+    color: blue;
+    padding: 15px;
+    text-decoration: none;
+}
+
+/* .container .link a:hover{
+    text-decoration: underline;
+}
+
+a{
+    color: inherit;
+} */
+
+
+h1{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 200;
+}
+
+a{
+    text-decoration:none;
+}
+ul li{
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.teks{
+    margin-top: -45px;
+}
+
+img{
+    width: 30px;
+    align-content: center;
+}
+
+.inner{
+    height: 30px;
+    justify-content: space-around;
+}
+
+h1{
+    margin-top: 10px;
+    margin: 8px;
+}
+
+
+
+.navbar{
+    margin-left: -50px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 255, 255);
+    color: white;
+    
+}
+.main .jumbo .mainheader{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+    height: 200px;
+    width: 1563px;
+}
+
+.main .jumbo .mainheader .text h1{
+    color: white !important;
+}
+.main .jumbo .mainheader img{
+    border-radius: 8px;
+    cursor: pointer;
+}
+.main .jumbo .mainheader .text h1{
+    color: white;
+}
+.main .banner{
+    background-image: url(https://www.apple.com/newsroom/images/product/mac/standard/Apple-MacBook-Pro-M2-Pro-and-M2-Max-hero-230117_Full-Bleed-Image.jpg.xlarge.jpg);
+    height: 700px;
+    width: 1563px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+.main .banner .inner{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.link ,h4{
+    margin-top: 20px;
+}
+.main .banner .inner h1{
+    font-size: 50px;
+    font-weight: 500;
+}
+.main .banner .inner h4{
+    font-size: 25px;
+    font-weight: 100;
+}
+.main .banner .inner .link a{
+    color:blue ;
+    padding: 15px;
+    text-decoration: none;
+}
+.inner .link a:hover{
+    text-decoration: underline;
+}
+a{
+    color: inherit;
+}
+.image img{
+    width: 200px;
+    height: 150px;
+    
+}   
+.gambar img{
+    width: 400px;
+    height: 400px;
+    margin-left: 100px;
+    flex-wrap: wrap;
+    
+    
+    
+}
+h2{
+    font-weight: 700;
+}
+h3{ 
+    font-weight: 500;
+}
+
+h4{
+    color: black;
+}
+
+
+h5{
+    /* margin-left: 675px; */
+    font-weight: 200;
+    font-size: 40px;
+    /* margin-top: -5px; */
+    color: #000000;
+}
+h6{
+    /* margin-left: 535px; */
+    font-weight: 200;
+    font-size: 30px;
+    color: #000000;
+    margin-top: -50px;
+}
+.gambar1 img{
+    width: 300px;
+    height: 400px;
+    float: right;
+    margin-top: -420px;
+    flex-wrap: wrap;
+    margin-right: 175px;
+
+}
+.box .judul h5{
+    justify-content: center;
+    display: flex;
+}
+.box .judul h6{
+    justify-content: center;
+    display: flex;
+}
+
+.box .judul .tautan a{
+    color:rgb(41, 114, 250) ;
+    
+    
+}
+.box .judul .tautan a:hover{
+    text-decoration: underline;
+}
+
+.box .linkipad a{
+    color: blue;
+    margin-left: 275px;
+}
+.box2 .linkipad2 a{
+    color: blue;
+    float: right;
+    margin-top: -440px;
+    margin-right: 310px;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    height: 250px;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    display: flex;
+}
+.footer h4{
+    font-weight: bolder;
+    font-family :Arial, Helvetica, sans-serif;
+    color: white;
+}
